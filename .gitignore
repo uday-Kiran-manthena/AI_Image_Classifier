@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model & output folders (large artifacts)
+models/
+outputs/
+data/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Temporary data files
+*.log
+*.csv
+
+# OS/system files
+.DS_Store
+Thumbs.db
